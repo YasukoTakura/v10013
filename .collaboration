@@ -182,5 +182,15 @@
   {
     "ModuleName": "Table/テーブル2",
     "ModuleType": 7
+  },
+  {
+    "ModuleName": "Tables/新しいフォルダー1",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\Yasuko",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2026-06-30T17:55:16.538878+09:00",
+    "ModuleType": 22
   }
 ]
