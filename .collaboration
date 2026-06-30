@@ -157,16 +157,7 @@
   },
   {
     "ModuleName": "DataContectionSet",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\Yasuko",
-      "Email": "example@example.com"
-    },
-    "LockDateTime": "2026-06-30T17:50:57.0028326+09:00",
-    "ModuleType": 25,
-    "ToRemoveFiles": [
-      "DataConnectionSet.json"
-    ]
+    "ModuleType": 25
   },
   {
     "ModuleName": "Upload",
@@ -178,14 +169,7 @@
   },
   {
     "ModuleName": "Plugin",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\Yasuko",
-      "Email": "example@example.com"
-    },
-    "LockDateTime": "2026-06-30T17:53:03.1002514+09:00",
-    "ModuleType": 40,
-    "ToRemoveFiles": []
+    "ModuleType": 40
   },
   {
     "ModuleName": "PublishSetting",
@@ -193,22 +177,10 @@
   },
   {
     "ModuleName": "Table/テーブル1",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\Yasuko",
-      "Email": "example@example.com"
-    },
-    "LockDateTime": "2026-06-30T17:51:15.2108566+09:00",
     "ModuleType": 7
   },
   {
     "ModuleName": "Table/テーブル2",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\Yasuko",
-      "Email": "example@example.com"
-    },
-    "LockDateTime": "2026-06-30T17:51:15.2108964+09:00",
     "ModuleType": 7
   }
 ]
